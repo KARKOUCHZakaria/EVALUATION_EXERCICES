@@ -1,4 +1,4 @@
-evaluation Exercices :
+#evaluation Exercices :
 
 # evaluation_EX1_gestion_stock
 
